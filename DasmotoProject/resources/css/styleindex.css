@@ -1,0 +1,40 @@
+body {font-family: Helvetica;
+     margin-left: 10px;
+     margin-right: 10px;
+}
+
+.header-image {
+
+  background: url(../images/tilebanner.jpeg);
+  background-size: cover;
+  height: 120px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.caption-title {
+  position: relative;
+  text-align: center;
+  font-size: 100px;
+  color: khaki;
+  }
+
+h2 {font-size: 32px;
+   color: white;
+   }
+
+h2.brushes {
+  background-color:mediumspringgreen;
+  width: 100%;}
+
+h2.frames {
+  background-color:lightcoral;
+  width: 100%;}
+
+h2.paint {
+  background-color:skyblue;
+  width: 100%;}
+
+span {
+  font-weight: bold;
+  color: blue;}
